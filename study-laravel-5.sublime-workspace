@@ -1,0 +1,1724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sayHi",
+				"sayHi"
+			],
+			[
+				"crea",
+				"create_topic"
+			],
+			[
+				"ba",
+				"basic_symbol"
+			],
+			[
+				"ins",
+				"instance_methods"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"P",
+				"ParentGreet"
+			],
+			[
+				"sa",
+				"say_bye"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"con",
+				"condition_test"
+			],
+			[
+				"cre",
+				"create_topic"
+			],
+			[
+				"gr",
+				"greeting"
+			],
+			[
+				"s",
+				"strong"
+			],
+			[
+				"Fir",
+				"FirstController"
+			],
+			[
+				"modul",
+				"module"
+			],
+			[
+				"borc",
+				"border-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"o",
+				"opacity	opacity()"
+			],
+			[
+				"var-typo-font",
+				"var-typo-font-size-h3"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pos",
+				"pos-f	position: fixed;"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos-",
+				"pos-f	position: fixed;"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"op",
+				"opacity	css-vendor-prefix-opacity"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"transpa",
+				"transparent"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"cs",
+				"c-subsection	Sub-section Comment"
+			],
+			[
+				"ov",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"under",
+				"underline"
+			],
+			[
+				"visi",
+				"visited"
+			],
+			[
+				"ls",
+				"list-style-type"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"dsn",
+				"dsn_yaowarat"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"lsp",
+				"letter-spacing"
+			],
+			[
+				"de",
+				"default	!default"
+			],
+			[
+				"lighte",
+				"lighter"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"sup",
+				"superstore"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"anim",
+				"animdir-n	animation-direction: normal;"
+			],
+			[
+				"animdir",
+				"animdir-n	animation-direction: normal;"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"if",
+				"if	if()"
+			],
+			[
+				"c-s",
+				"c-section	Section Comment"
+			],
+			[
+				"unit",
+				"unitless	unitless()"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"animfm",
+				"animfm-f	animation-fill-mode: forwards;"
+			],
+			[
+				"trf",
+				"trf	transform"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"whs-n",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"lis",
+				"lis-n	list-style: none;"
+			],
+			[
+				"easein",
+				"easeinoutback	css-cubic-bezier-easeinoutback"
+			],
+			[
+				"ease",
+				"easeinexpo	css-cubic-bezier-easeinexpo"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"scro",
+				"scroll	.scroll()"
+			],
+			[
+				"scr",
+				"scroll	.scroll()"
+			],
+			[
+				"bloc",
+				"block2"
+			],
+			[
+				"rotat",
+				"rotateX()"
+			],
+			[
+				"cha",
+				"change-color"
+			],
+			[
+				"trans",
+				"translateY()"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"parent",
+				"parent-first"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"tran",
+				"translate3D()"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"dp",
+				"display"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"sub",
+				"submenu"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"menu",
+				"menu-trigger"
+			],
+			[
+				"lss",
+				"list-style"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"ta",
+				"table	<table>"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"c-",
+				"c-section	Section Comment"
+			],
+			[
+				"colum",
+				"column_width"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"incl",
+				"include	@include"
+			],
+			[
+				"mix",
+				"mixin	=mixin - with Sass Syntax"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cm",
+				"c-multi	Multiple Comment with TODO"
+			],
+			[
+				"i",
+				"@i	@import url(${0});"
+			],
+			[
+				"a",
+				"reveal-on-activate"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"po",
+				"pos:f	position:fixed"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"width-gr",
+				"width-grid-1"
+			],
+			[
+				"wid",
+				"width-this"
+			],
+			[
+				"grid",
+				"grid-do"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"gri",
+				"grid-do-1"
+			],
+			[
+				"ge",
+				"get	$.get()"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"f",
+				"fl	float: ${1:left};"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/hello.php",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Build/open_in_chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"cop",
+				"Copy Path Relative to Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Copy Path Relative to Project"
+			],
+			[
+				"copy",
+				"Copy Path Relative to Project"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html-boilerplate"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"scss	",
+				"Set Syntax: SCSS"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"update",
+				"Emmet: Update Image Size"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"cdd",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gist crea",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gist cre",
+				"Gist: Create Public Gist"
+			],
+			[
+				"c",
+				"Copy Path Relative to Project"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"create g",
+				"Gist: Create Private Gist"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"blade",
+				"Snippet: blade-comment"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"cheat g",
+				"Cheat Sheet: Git"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"togg",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Emmet: Update Image Size"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"chea",
+				"Cheat Sheet: Regular Expressions"
+			],
+			[
+				"bash ",
+				"Cheat Sheet: Bash"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-laravel/my-first-app/resources/views/home.blade.php",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/User/snippet/sass/js-gruntfile-var.sublime-snippet",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest/Gruntfile.js",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/User/snippet/js-gruntfile-basic.sublime-snippet",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-yo/webapp-bootstrap/Gruntfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-grunt/install-plugin/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-grunt/install-plugin/GruntFile.js",
+		"/tmp/subl stdin avNMaJ.txt",
+		"/Users/wanderer/Sites/simple_cms/public/test-public.html",
+		"/Users/wanderer/.zshrc",
+		"/Users/wanderer/Sites/simple_cms/Gemfile",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-autosave/codekit/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-autosave/codekit/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-autosave/codekit/jade/index.jade",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-autosave/codekit/jade/_template.jade",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-autosave/codekit/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-autosave/codekit/main.scss",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/wanderer/Sites/index.php",
+		"/Users/wanderer/Sites/sample-page.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-yo/webapp-bootstrap-sass-modernizr/app/styles/_bootstrap.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-tool/study-bootstrap/app/scss/_bootstrap.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-tool/study-bootstrap/app/scss/main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-tool/study-bootstrap/app/config.rb",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-tool/study-bootstrap/app/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-tool/study-bootstrap/app/scss/bootstrap/_variables.scss",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-jade/jade/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-jade/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-jade/jade/template.jade",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-jade/template.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-jade/index.jade",
+		"/Users/wanderer/Documents/Screenshot/edututors/cancel/cancel 150224/cancel 150224.txt",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/Dracula Color Scheme/Dracula.tmTheme",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/Dracula Color Scheme/README.md",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/Dracula Color Scheme/package.json",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/Dracula Color Scheme/package-metadata.json",
+		"/Users/wanderer/Library/Application Support/Mou/CSS/GitHub.css",
+		"/Users/wanderer/Documents/Screenshot/edututors/cancel/cancel 150217/cancel 150217.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/edututors/web/adminindex.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/edututors/web/workShow.php",
+		"/Users/wanderer/Documents/Screenshot/course CH60009(1:2).txt",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular/_template.html",
+		"/Users/wanderer/Documents/Screenshot/edututors/cancel/cancel 150210/cancel 150210.txt",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular/1-hello.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular/api.html",
+		"/Users/wanderer/Desktop/edututors/Course/Company/Anantra/note.txt",
+		"/Users/wanderer/Desktop/edututors/Course/Company/พันท้าย/note.txt",
+		"/Users/wanderer/Documents/Screenshot/edututors/cancel/cancel 150203/cancel 150203.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sample-page-219.html",
+		"/Users/wanderer/Documents/Screenshot/edututors/cancel/cancel 150127/cancel 150127.txt",
+		"/Users/wanderer/Documents/Screenshot/cancel 150127/cancel 150127.txt",
+		"/Users/wanderer/Documents/Screenshot/course วรราชา 150123/course วรราชา 150123.txt",
+		"/Users/wanderer/Desktop/edututors/รับสายลูกค้า.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sample-page.html",
+		"/Users/wanderer/Desktop/test.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 3/03_07/Solution/rouxconf-solution.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 3/03_05/final/oliveoil-stars.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 3/03_04/final/oliveoil.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 4/04_02/final/oliveoil-rdf.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 3/03_03/final/oliveoil.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 1/01_03/final/services.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 1/01_02/final/services.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 1/01_01/final/services.html",
+		"/Users/wanderer/Desktop/Exercise/Chapter 1/01_01/services.html",
+		"/Users/wanderer/Documents/Screenshot/cancel 151901/cancel 150119.txt",
+		"/Users/wanderer/Desktop/note.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_border.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_golden-ratio.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/.sass-cache/ca01b081323a9a8fb979b62ef739ae2f93b69774/_golden-ratio.scssc",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/component/_badge.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_component.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_site.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_button.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_typography.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_variable.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_typography.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_rwd.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_grid.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_grid.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/component-core/_nav.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/bower/font-awesome/css/font-awesome.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_miscellaneous.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/component-core/_button.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/miscellaneous/_shape.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_site.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_animation.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_color.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/miscellaneous/_clearfix.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/miscellaneous/_compass-grid-background.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_transform.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/miscellaneous/_hidden.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/miscellaneous/_selection.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/miscellaneous/_rythm.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_grid.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_transition.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_typography.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/component-core/_list.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_mixin.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_function.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_nav.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/function/_nav.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_nav.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_component-core.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/font/_superstore.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_transition.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_animation.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_button.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_color.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_form.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_icon.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_image.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_list.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_rwd.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_animation.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/reset/_reset-normalize.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_border.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_transform.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/css-animation/flipping.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/_base.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_layout.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/variable/_code.scss",
+		"/Users/wanderer/Library/Application Support/Sublime Text 2/Packages/User/snippet/js-ios-detection.sublme-snippet",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/.sass-cache/045790a1213d1111369e7072eaf1d1303b27bdda/_html5.scssc",
+		"/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/mixin/_transition.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home",
+			"hello",
+			"python",
+			"hello",
+			"mysqlstartatlogin",
+			"array",
+			"full_name",
+			"create_linebreak",
+			"keys",
+			"teddy",
+			"wanderer",
+			"r",
+			"wanderer",
+			"first",
+			"create_linebreak",
+			"chicken",
+			"beef",
+			"prok",
+			"sort",
+			"prok",
+			"length",
+			"sort",
+			"include",
+			"chicken",
+			"last",
+			"Class",
+			"statement",
+			"topic",
+			"statement",
+			"Using",
+			"ParentGreet",
+			"Define",
+			"class",
+			"basic",
+			"Teddy",
+			"person",
+			"Teddy",
+			"person",
+			"Bye",
+			"Hi",
+			"ParentGreet",
+			"Hello",
+			"Hi",
+			"parent",
+			"person",
+			"(@name)",
+			"names",
+			"greet",
+			"true",
+			"numeric",
+			"Numeric",
+			"true",
+			"false",
+			"variable_method",
+			"methods",
+			"string",
+			"number",
+			"true",
+			"TRUE",
+			"true",
+			"false",
+			"methods",
+			"\"=======#{",
+			"linebreak",
+			"create_linebreak",
+			"greeting",
+			"global",
+			"world",
+			"constant",
+			"-",
+			"green",
+			"htmlh2",
+			"red",
+			"blue",
+			"red",
+			"green",
+			"red",
+			"serve",
+			"server",
+			"dist",
+			"fff",
+			"main",
+			"js",
+			"//",
+			"sass",
+			"sass.js",
+			"0865594958",
+			"บุญชูศรี  7492383591",
+			"-",
+			"0949585534",
+			"0869570957",
+			"0841522337",
+			"0891744491",
+			"GM62100",
+			"2822259887",
+			"AD61204",
+			"1832519603",
+			"AD61204",
+			"0841522337",
+			"0455906738",
+			"SC61215",
+			"-",
+			"MA58154",
+			"0851256225",
+			"4650366135",
+			"*",
+			"-",
+			"_GET",
+			"_POST",
+			"post",
+			"_POST",
+			"post",
+			"FirstController",
+			"hello",
+			"this",
+			"NameCtrl",
+			"firstName",
+			"John",
+			"NameCtrl",
+			"FirstController",
+			"NameCtrl",
+			"body",
+			"scope",
+			"ew.",
+			"first",
+			"scope",
+			"first",
+			"this"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/HomeController.php",
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								774,
+								774
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/hello.php",
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"works",
+				"workShow.php"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"var/gold",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"golden",
+				".sass-cache/ca01b081323a9a8fb979b62ef739ae2f93b69774/_golden-ratio.scssc"
+			],
+			[
+				"misc/hidde",
+				"sass/miscellaneous/_hidden.scss"
+			],
+			[
+				"var/site",
+				"sass/variable/_site.scss"
+			],
+			[
+				"var/sit",
+				"sass/variable/_site.scss"
+			],
+			[
+				"font",
+				"bower/font-awesome/css/font-awesome.css"
+			],
+			[
+				"fontaw",
+				"bower/font-awesome/css/font-awesome.css"
+			],
+			[
+				"fon",
+				"bower/font-awesome/css/font-awesome.css"
+			],
+			[
+				"fonta",
+				"bower/font-awesome/css/font-awesome.css"
+			],
+			[
+				"var/ty",
+				"sass/variable/_typography.scss"
+			],
+			[
+				"base/grid",
+				"sass/base/_grid.scss"
+			],
+			[
+				"grid",
+				"sass/mixin/_grid.scss"
+			],
+			[
+				"sam-pag",
+				"sample-page.html"
+			],
+			[
+				"grid.scss",
+				"sass/base/_grid.scss"
+			],
+			[
+				"typography.scss",
+				"sass/base/_typography.scss"
+			],
+			[
+				"mixin/typo",
+				"sass/mixin/_typography.scss"
+			],
+			[
+				"nav.scss",
+				"sass/component-core/_nav.scss"
+			],
+			[
+				"var/bo",
+				"sass/variable/_border.scss"
+			],
+			[
+				"var/bord",
+				"sass/variable/_border.scss"
+			],
+			[
+				"var/trans",
+				"sass/variable/_transform.scss"
+			],
+			[
+				"var/transition",
+				"sass/variable/_transition.scss"
+			],
+			[
+				"base.scss",
+				"sass/_base.scss"
+			],
+			[
+				"html",
+				".sass-cache/045790a1213d1111369e7072eaf1d1303b27bdda/_html5.scssc"
+			],
+			[
+				"mix/tran",
+				"sass/mixin/_transition.scss"
+			],
+			[
+				"mx/ty",
+				"sass/mixin/_typography.scss"
+			],
+			[
+				"mix",
+				"sass/mixin/_typography.scss"
+			],
+			[
+				"mixi/ty",
+				"sass/mixin/_typography.scss"
+			],
+			[
+				"mix/col",
+				"sass/mixin/_color.scss"
+			],
+			[
+				"var/typo",
+				"sass/variable/_typography.scss"
+			],
+			[
+				"mix/ty",
+				"sass/mixin/_typography.scss"
+			],
+			[
+				"gol",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"variable/ty",
+				"sass/variable/_typography.scss"
+			],
+			[
+				"variable/",
+				"sass/variable/_rwd.scss"
+			],
+			[
+				"function/m",
+				"sass/function/_miscellaneous.scss"
+			],
+			[
+				"gold",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"lato.scs",
+				"sass/font/_lato.scss"
+			],
+			[
+				"lato.scss",
+				"sass/font/_lato.scss"
+			],
+			[
+				"compass",
+				"sass/miscellaneous/_compass-grid-background.scss"
+			],
+			[
+				"variable/grid",
+				"sass/variable/_grid.scss"
+			],
+			[
+				"compa",
+				"sass/miscellaneous/_compass-grid-background.scss"
+			],
+			[
+				"function",
+				"sass/function/_miscellaneous.scss"
+			],
+			[
+				"ratio",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"rwd",
+				"sass/variable/_rwd.scss"
+			],
+			[
+				"mixin/mis",
+				"sass/mixin/_miscellaneous.scss"
+			],
+			[
+				"function/mis",
+				"sass/function/_miscellaneous.scss"
+			],
+			[
+				"variable/rwd",
+				"sass/variable/_rwd.scss"
+			],
+			[
+				"golde",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"comp",
+				"sass/miscellaneous/_compass-grid-background.scss"
+			],
+			[
+				"go",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"_site",
+				"sass/base/_site.scss"
+			],
+			[
+				"var-",
+				"sass/variable/_golden-ratio.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"bootstrap",
+				"bootstrap/css/bootstrap.css"
+			],
+			[
+				"",
+				".bowerrc"
+			],
+			[
+				"960",
+				"css/960_12_col.css"
+			],
+			[
+				"conf",
+				"config.rb"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"thai",
+				"font/thaisansneue-bold-webfont.svg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/sandbox/treehouse_css_foundation/css-goldenratio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
